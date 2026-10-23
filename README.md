@@ -1,2 +1,2 @@
 # hellom-world
-ilk githup projem 
+bu benim ilk githup projem 
